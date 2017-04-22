@@ -146,6 +146,7 @@ var defaultSettings = {
 // @include        http://disneycomics.free.fr/*/show.php?*
 // @include        http://www.nerfnow.com/*
 // @include        http://nerfnow.com/*
+// @include        https://exhentai.org/*
 // @exclude        http://www.nerfnow.com/*/comments*
 // @exclude        http://nerfnow.com/*/comments*
 // @include        http://www.virtualshackles.com/*
